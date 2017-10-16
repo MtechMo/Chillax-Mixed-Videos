@@ -11,7 +11,7 @@
   - Making your learning experience easier wherever you are!
   
 
-![alt text](https://github.com/MtechMo/AafesLEX/blob/master/img/sm/small.png) 
+
 
 
 ## New Features!
