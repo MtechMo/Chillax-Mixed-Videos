@@ -11,7 +11,7 @@
   - Making your learning experience easier wherever you are!
   
 
-![alt text](https://github.com/MtechMo/AafesLEX/blob/master/img/sm/small.png) 
+
 
 
 ## New Features!
@@ -19,17 +19,17 @@
   - Coming Soon
 
   
- [![Download Latest!](https://i.imgur.com/fbXRyFY.png)](https://github.com/MtechMo/AafesLEX/blob/master/app-release.apk?raw=true)
+ [![Download Latest!]()](#)
 
 ### Installation
 
-- Basic Phone & Tablet Installation (coming soon)
-- Setting up to run on your Windows PC via Emulater for Android emulator (coming soon)
+-
+-
 
 ### Development
 
 Want to contribute? Great!
-You can actually be a big help and report any bugs here! [**REPORT BUG/ERROR**](https://github.com/MtechMo/AafesLEX/issues) - the streaming build system
+You can actually be a big help and report any bugs here! [**REPORT BUG/ERROR**](https://github.com/MtechMo/Chillax-Mixed-Videos/issues) 
 
 ### Todos
 
