@@ -19,7 +19,7 @@
   - Coming Soon
 
   
- [![Download Latest!](https://i.imgur.com/fbXRyFY.png)](#)
+ [![Download Latest!]()](#)
 
 ### Installation
 
