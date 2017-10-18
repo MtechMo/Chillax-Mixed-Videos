@@ -14,6 +14,10 @@
           <option name="url" value="https://gitlab.com/Mtechnik/LetsChill.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/delaroy/YoutubeVideo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="d:\AndroidStudioProjects" />
